@@ -27,8 +27,11 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 theme: moonwalk
+remote_theme: abhinavs/moonwalk
+
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
