@@ -13,9 +13,9 @@ project_entries:
     url: note-ninja
     desc: My senior project! Rock Band, but using a real keyboard and guitar
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Ergo Keyboard
+    url: corne-keyboard
+    desc: I built a Corne split keyboard and despite some... interesting... LED soldering I love it
 
   - title: Project 3
     url: overview-post
