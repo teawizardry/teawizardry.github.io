@@ -16,7 +16,7 @@ description: > # description of the site (multiple lines allowed)
 
 permalink: /:slug.html
 
-favicon: "./favicon.ico" # relative path to site's favicon
+favicon: "favicon.ico" # relative path to site's favicon
 
 remote_theme: abhinavs/moonwalk
 
