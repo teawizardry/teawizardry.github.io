@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: Note Ninja
-    url: Note Ninja
+    url: note-ninja
     desc: My senior project! Rock Band, but using a real keyboard and guitar
 
   - title: Project 2
