@@ -13,7 +13,7 @@ For Halloween, I dressed as plague doctor. It was a ton of fun to make and I'll 
 ![finished](/images/PXL_20211031_234626430.jpg "finished")
 ![finished 1](/images/PXL_20211031_234557781.jpg "finished 1")
 
-For the mask, I followed [this YouTube tutorial](https://www.youtube.com/watch?v=hlgAM54k0Xw&t=506s). I used random stuff around my house like balled up tin foil to texture the mask. I used painting techniques from various model paintings I'd seen online.
+For the mask, I followed [this YouTube tutorial](https://www.youtube.com/watch?v=hlgAM54k0Xw&t=506s){:target="\_blank"}. I used random stuff around my house like balled up tin foil to texture the mask. I used painting techniques from various model paintings I'd seen online.
 
 ![mask](/images/PXL_20210129_220621730.jpg "mask")
 ![mask 1](/images/PXL_20210129_220631089.jpg "mask 1")

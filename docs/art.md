@@ -3,9 +3,9 @@ layout: post
 title: Art
 ---
 
-Typically, I use a combination of traditional and digital media to create my art pieces. I work primarily in ink and color in Krita. The occasional alcohol marker, gouache, or watercolor piece also makes its way into my portfolio. Check out my [Instagram](https://www.instagram.com/hannah.m.kirkland/) or [Tumblr](teawizardry.tumblr.com) for more!
+Typically, I use a combination of traditional and digital media to create my art pieces. I work primarily in ink and color in Krita. The occasional alcohol marker, gouache, or watercolor piece also makes its way into my portfolio. Check out my [Instagram](https://www.instagram.com/hannah.m.kirkland/){:target="\_blank"} or [Tumblr](teawizardry.tumblr.com){:target="\_blank"} for more!
 
-I also occasionally post time lapses on [YouTube](https://www.youtube.com/channel/UCcZNGl0wgH3UN8hA4PzbfSg).
+I also occasionally post time lapses on [YouTube](https://www.youtube.com/channel/UCcZNGl0wgH3UN8hA4PzbfSg){:target="\_blank"}.
 
 ![bowie](https://64.media.tumblr.com/cab78875bff7f8550faedcfd6c3e65e9/77b329c128fa52dc-08/s2048x3072/7c9b73e2231aba64f3d6c63bc94b3133df15fedc.jpg "bowie") 
 
