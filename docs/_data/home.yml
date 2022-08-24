@@ -21,10 +21,10 @@ project_entries:
     url: overview-post
     desc: You can control visibility from _config.yml file
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: Plague Doctor
+    url: plague-doctor-costume
+    desc: My plague doctor Halloween costume!
+    # highlight: WIP
 
   - title: Project 5
     url: overview-post
