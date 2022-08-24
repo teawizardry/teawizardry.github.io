@@ -2,13 +2,16 @@
 layout: post
 title:  "Plague Doctor Costume"
 date:   2022-10-31 21:55:20 -0500
-categories: projects, costume, sewing
+categories: 
+    - projects
+    - costume
+    - sewing
 ---
 
 For Halloween, I dressed as plague doctor. It was a ton of fun to make and I'll definitely be adding more to the costume in the future. Before I get into the process, here are some photos of the final product:
 
-![finished](/images/PXL_20211031_234626430.MP.jpg "finished")
-![finished 1](/images/PXL_20211031_234557781.MP.jpg "finished 1")
+![finished](/images/PXL_20211031_234626430.jpg "finished")
+![finished 1](/images/PXL_20211031_234557781.jpg "finished 1")
 
 For the mask, I followed [this YouTube tutorial](https://www.youtube.com/watch?v=hlgAM54k0Xw&t=506s). I used random stuff around my house like balled up tin foil to texture the mask. I used painting techniques from various model paintings I'd seen online.
 
@@ -27,7 +30,7 @@ With the base outfit complete, I scoured a local market for props to great succe
 
 ![prop 1](/images/PXL_20211030_174941406.jpg "prop 1")
 ![prop 2](/images/PXL_20211030_174515445.jpg "prop 2")
-![prop 3](/images/PXL_20211031_234438605.MP.jpg "prop 3")
-![prop 4](/images/PXL_20211031_234347955.MP.jpg "prop 4")
+![prop 3](/images/PXL_20211031_234438605.jpg "prop 3")
+![prop 4](/images/PXL_20211031_234347955.jpg "prop 4")
 
 In the future, I hope to have a proper bag and some more thematic props. Perhaps giant scissors, more potion bottles, and other fun things.

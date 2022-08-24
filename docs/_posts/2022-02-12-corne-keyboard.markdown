@@ -2,7 +2,11 @@
 layout: post
 title:  "Corne Keyboard"
 date:   2022-02-12 21:55:20 -0500
-categories: projects, electronics, ergo, keyboard
+categories: 
+    - projects
+    - electronics
+    - ergo
+    - keyboard
 ---
 I find that I'm more susceptible to repetitive strain injuries (RSI) than some folks, specifically in my wrist and hands. Thus I've begun going down the ergonomics rabbit hole... I got a better chair, a sideways mouse, and started doing stretches to alleviate the pain. This has all helped tremendously. 
 
