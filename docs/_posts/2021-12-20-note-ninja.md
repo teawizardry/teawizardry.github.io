@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Note Ninja"
-date:   2022-12-20 21:55:20 -0500
+date:   2021-12-20 21:55:20 -0500
 categories: 
     - projects
     - electronics
