@@ -26,7 +26,7 @@ I bought a shirt that I thought would match the outfit as I didn't really feel c
 
 ![cloak](/images/PXL_20210927_210301104.jpg "cloak")
 
-With the base outfit complete, I scoured a local market for props to great success. This cool syringe from the 1800s and tiny bottles for potions were great additions. I also bought a plague doctor belt from Spirit Halloween that I modified to look more steampunk.
+With the base outfit complete, I scoured a local market for props to great success. This cool syringe from the 1800s and tiny bottles for potions were great additions. I got the cane off eBay, and while it's a little cheaply made it looks nice. I also bought a plague doctor belt from Spirit Halloween that I modified to look more steampunk.
 
 ![prop 1](/images/PXL_20211030_174941406.jpg "prop 1")
 ![prop 2](/images/PXL_20211030_174515445.jpg "prop 2")
