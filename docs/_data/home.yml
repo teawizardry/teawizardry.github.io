@@ -17,9 +17,9 @@ project_entries:
     url: corne-keyboard
     desc: I built a Corne keyboard and despite some... interesting... LED soldering I love it
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Art
+    url: art
+    desc: Learn more about the art I create!
 
   - title: Plague Doctor
     url: plague-doctor-costume
