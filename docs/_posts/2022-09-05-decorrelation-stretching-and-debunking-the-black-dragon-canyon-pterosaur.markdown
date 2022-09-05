@@ -16,7 +16,7 @@ The chalk outline of John Simonson’s “winged monster” was controversial fo
 
 In 2013, researchers used a rock art enhancement plugin called DStretch to improve the visibility of the pictograph. They determined the paint was made with red ochre, which let them further filter the results to remove artifacts from the chalking and rock material. Using the DStretch results, they were able to reconstruct what it the original would have looked like by adjusting the color back to match the original red ochre and placing this back onto the rock wall.
 
-![paper results](/images/paper-results.png "paper results")
+![paper results](/images/paper-result.png "paper results")
 
 To further cement their results, the researchers used an X-ray fluorescence analyzer to compare the iron levels in the blank areas and the painted areas. Since the red ochre contains a high amount of iron, the painted areas showed high levels of iron while unpainted areas showed a low level. Their results aligned with the processed image, further bolstering the result.
 
@@ -30,17 +30,17 @@ Decorrelation stretching works by using PCA to project the image data to a space
 
 Mathematically, the linear operation can be described by:
 
-$b_n=T*(a_n-\mu)+\mu_{target}$
+$$b_n=T*(a_n-\mu)+\mu_{target}$$
 
 Where:
-* $a_n$ and $b_n$ are the RGB vectors for each pixel $n$ in input image $A$ and output image $B$.
-* $\mu$ is a vector of the means for each channel in the image $[\mu_R, \mu_B, \mu_G]$
-* $\mu_{target}$ is the desired output mean (typically equal to $\mu$)
-* $T$ is the linear transformation $\sigma_{target}*V*S*V’$ where:
-	* $\sigma_{target}$ is the desired output standard deviation (typically equal to $\sigma$, the standard deviation of each band $[\sigma_R, \sigma_B, \sigma_G]$, similar to $\mu_{target}$)
-    * $V$ is an orthogonal matrix that projects the data to the new eigenspace according to the covariance
-    * $S$ is a diagonal matrix that stretches the data equal to $\frac{1}{\sqrt{\lambda}}$ where $\lambda$ is the diagonal matrix of eigenvalues
-    * $V'$ is the inverse of $V$ that projects the data back to the original eigenspace
+* $$a_n$$ and $$b_n$$ are the RGB vectors for each pixel $$n$$ in input image $$A$$ and output image $$B$$.
+* $$\mu$$ is a vector of the means for each channel in the image $$[\mu_R, \mu_B, \mu_G]$$
+* $$\mu_{target}$$ is the desired output mean (typically equal to $$\mu$$)
+* $$T$$ is the linear transformation $$\sigma_{target}*V*S*V’$$ where:
+	* $$\sigma_{target}$$ is the desired output standard deviation (typically equal to $$\sigma$$, the standard deviation of each band $$[\sigma_R, \sigma_B, \sigma_G]$$, similar to $$\mu_{target}$$)
+    * $$V$$ is an orthogonal matrix that projects the data to the new eigenspace according to the covariance
+    * $$S$$ is a diagonal matrix that stretches the data equal to $$\frac{1}{\sqrt{\lambda}}$$ where $$\lambda$$ is the diagonal matrix of eigenvalues
+    * $$V'$$ is the inverse of $$V$$ that projects the data back to the original eigenspace
     * Essentially, this is the PCA, projection, scaling, and inverse project part
 
 ## Implementation
@@ -109,15 +109,15 @@ My result was not as clear as the paper's due to DStretch's additional processin
 
 ## Sources
 
-[1] “Apply decorrelation stretch to multichannel image - MATLAB decorrstretch.” https://www.mathworks.com/help/images/ref/decorrstretch.html (accessed Sep. 05, 2022).
+[1] “Apply decorrelation stretch to multichannel image - MATLAB decorrstretch.” [https://www.mathworks.com/help/images/ref/decorrstretch.html](https://www.mathworks.com/help/images/ref/decorrstretch.html){:target="\_blank"} (accessed Sep. 05, 2022).
 
 [2] A. R. Gillespie, A. B. Kahle, and R. E. Walker, “Color enhancement of highly correlated images. I. Decorrelation and HSI contrast stretches,” Remote Sensing of Environment, vol. 20, no. 3, pp. 209–235, Dec. 1986, doi: 10.1016/0034-4257(86)90044-1.
 
-[3] D. Dangampola, “Dhanushka Dangampola’s Blog: Decorrelation Stretching,” Dhanushka Dangampola’s Blog, Feb. 14, 2015. https://dhanushkadangampola.blogspot.com/2015/02/decorrelation-stretching.html (accessed Sep. 05, 2022).
+[3] D. Dangampola, “Dhanushka Dangampola’s Blog: Decorrelation Stretching,” Dhanushka Dangampola’s Blog, Feb. 14, 2015. [https://dhanushkadangampola.blogspot.com/2015/02/decorrelation-stretching.html](https://dhanushkadangampola.blogspot.com/2015/02/decorrelation-stretching.html){:target="\_blank"} (accessed Sep. 05, 2022).
 
-[4] “DStretch.com home page.” http://www.dstretch.com/ (accessed Sep. 05, 2022).
+[4] “DStretch.com home page.” [http://www.dstretch.com/](http://www.dstretch.com/){:target="\_blank"} (accessed Sep. 05, 2022).
 
-[5] “lbrabec/decorrstretch: Decorrelation stretch in Python.” https://github.com/lbrabec/decorrstretch (accessed Sep. 05, 2022).
+[5] “lbrabec/decorrstretch: Decorrelation stretch in Python.” [https://github.com/lbrabec/decorrstretch](https://github.com/lbrabec/decorrstretch){:target="\_blank"} (accessed Sep. 05, 2022).
 
 [6] J.-L. Le Quellec, P. Bahn, and M. Rowe, “The death of a pterodactyl,” Antiquity, vol. 89, pp. 872–883, Aug. 2015, doi: 10.15184/aqy.2015.54.
 
