@@ -49,6 +49,18 @@ highlighter: rouge
 sass:
   style: :compressed
 
+jekyll-archives:
+  enabled: 
+    - categories
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
 plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
+  - jekyll-archives

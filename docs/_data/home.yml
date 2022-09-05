@@ -24,12 +24,12 @@ project_entries:
   - title: Plague Doctor
     url: plague-doctor-costume
     desc: My plague doctor Halloween costume!
-    # highlight: WIP
+    # highlight: WIPS
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  - title: Image Processing with Rock Art
+    url: decorrelation-stretching-and-debunking-the-black-dragon-canyon-pterosaur
+    desc: I discuss a famous pictograph and how researchers debunked claims of it being a pterosaur
+    highlight: NEW
 
   - title: Project 6
     url: overview-post
