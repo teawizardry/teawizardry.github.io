@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LaTeX CV"
-date:   2022-11-15 21:55:20 -0500
+date:   2022-11-15 15:30:00 -0500
 categories: 
     - latex
 ---
