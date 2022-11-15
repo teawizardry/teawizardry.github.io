@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "LaTeX CV"
+date:   2022-11-15 21:55:20 -0500
+categories: 
+    - latex
+---
+I wanted to make my CV using LaTeX for formatting consistency and flexing my LaTeX skills. I used a couple of tutorials and templates as references, simplifying the macros and adjusting the formatting to something I liked. I'll probably change it up in the future, adding some subtle coloring and changing the font, but for now I think this is a solid start!
+
+You can find the file [here](https://www.overleaf.com/read/tvnpyyhnyjfz){:target="\_blank"}. The top part is the page layout, margins, etc. If you want A4 paper be sure to adjust this section. Otherwise, it should be fine as is. The next section contains the macros (eventually I'll put them into a class file). You can adjust these to adjust the formatting of each section. At the end is where you can add in your own information. I have some sections with dummy text filled in as examples. Enjoy!

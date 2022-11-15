@@ -26,14 +26,14 @@ project_entries:
     desc: My plague doctor Halloween costume!
     # highlight: WIPS
 
-  - title: Image Processing with Rock Art
+  - title: Image Processing on Rock Art
     url: decorrelation-stretching-and-debunking-the-black-dragon-canyon-pterosaur
     desc: I discuss a famous pictograph and how researchers debunked claims of it being a pterosaur
     highlight: NEW
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: LaTeX CV Template
+    url: latex-cv
+    desc: A template for a LaTeX based CV or resume, along with a short explanation of how to use it
 
 old_project_entries:
   - title: Soopr
