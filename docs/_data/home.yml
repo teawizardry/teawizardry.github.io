@@ -9,9 +9,19 @@ navbar_entries:
     url: art
 
 project_entries:
+- title: Schrödinger's Camera
+    url: schrodingers-camera
+    desc: Check out my research on how quantum computing can impact privacy preserving vision!
+    highlight: NEW
+    
   - title: Note Ninja
     url: note-ninja
     desc: My senior project! Rock Band, but using a real keyboard and guitar
+    
+  - title: Image Processing on Rock Art
+    url: decorrelation-stretching-and-debunking-the-black-dragon-canyon-pterosaur
+    desc: I discuss a famous pictograph and how researchers debunked claims of it being a pterosaur
+
 
   - title: Ergo Keyboard
     url: corne-keyboard
@@ -25,15 +35,6 @@ project_entries:
     url: plague-doctor-costume
     desc: My plague doctor Halloween costume!
     # highlight: WIPS
-
-  - title: Image Processing on Rock Art
-    url: decorrelation-stretching-and-debunking-the-black-dragon-canyon-pterosaur
-    desc: I discuss a famous pictograph and how researchers debunked claims of it being a pterosaur
-    highlight: NEW
-
-  - title: LaTeX CV Template
-    url: latex-cv
-    desc: A template for a LaTeX based CV or resume, along with a short explanation of how to use it
 
 old_project_entries:
   - title: Soopr
