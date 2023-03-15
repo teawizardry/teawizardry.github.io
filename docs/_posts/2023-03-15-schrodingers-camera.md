@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Schrödinger's Camera: First Steps Towards a Quantum-Based Privacy Preserving Camera"
-date:   2023-03-15 21:55:20 -0500
+date:   2023-03-15 10:55:20 -0500
 categories: 
     - projects
     - research
