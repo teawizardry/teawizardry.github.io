@@ -9,7 +9,7 @@ navbar_entries:
     url: art
 
 project_entries:
-- title: Schr&ouml;dinger's Camera
+  - title: Schr&ouml;dinger's Camera
     url: schrodingers-camera
     desc: Check out my research on how quantum computing can impact privacy preserving vision!
     highlight: NEW
