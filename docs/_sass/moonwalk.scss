@@ -76,14 +76,14 @@ html {
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   html, body  {
-      --headings: #ec6ff5; // #fc74f3;
-      --links: #a882ff; // #ff91fa;
-      --highlight: #6dffff; // #c741c7;
-      --bg: #1e1e1e; // #1f202a;
-      --bg-secondary: #2a2a2a; // #323445;
-      --text: #d9cbd6;
-      --code-text: #ff91e4; // #f091ff;
-      --share-text: #C4C4C4;
+      --headings: #00FF29; //#ec6ff5; // #fc74f3;
+      --links: #008aca; // #a882ff; // #ff91fa;
+      --highlight: #f34aff; // #6dffff; // #c741c7;
+      --bg: #000000; // #1f202a;
+      --bg-secondary: #181818; // #323445;
+      --text: #e8ece2;
+      --code-text: #0fa73d; // #f091ff;
+      --share-text: #e8ece2;
   };
 }
 html[data-theme="dark"] { @include dark-appearance; }
