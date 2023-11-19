@@ -1,7 +1,7 @@
 # archive/costumes
 ---
 title: costumes
-layout: categories
+layout: archive
 category: costume
 ---
 
