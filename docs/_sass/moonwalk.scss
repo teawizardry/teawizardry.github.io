@@ -38,7 +38,7 @@ li { margin: 0.4em 0; }
 }
 
 table, th, td {
-  // width: 100%;
+  width: 60%;
   margin-left: auto;
   margin-right: auto;
   border: thin solid rgb(48, 48, 48);
@@ -48,9 +48,17 @@ table, th, td {
   padding-bottom: 0.4em;
   padding-left: 0.3em;
   padding-right: 0.3em;
+  // display: inline-block;
 }
 
+table{float: left;}
+
 td:nth-child(1) {font-weight: bold;}
+
+figcaption{
+  font-style: italic;
+  text-align: center;
+}
 
 div.highlighter-rouge pre code, pre code.highlighter-rouge {
   display: block;
