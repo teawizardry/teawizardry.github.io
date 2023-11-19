@@ -20,4 +20,4 @@ From the book:
 With socks.
 
 And the book illustration:
-![reference image from the book](https://coppermind.net/wiki/File:BattleOfWits.jpg#/media/File:BattleOfWits.jpg "reference image from the book")
+![reference image from the book](https://coppermind.net/w/images/BattleOfWits.jpg "reference image from the book")

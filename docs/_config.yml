@@ -52,6 +52,7 @@ sass:
 collections:
   archive:
     output: true
+    permalink: /:collection/:name
 
 jekyll-archives:
   enabled: 
