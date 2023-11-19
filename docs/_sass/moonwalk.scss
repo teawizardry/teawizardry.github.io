@@ -68,7 +68,7 @@ html {
     --bg-secondary: #f8f8f8;
     --headings: #000;
     --text: #333;
-    --links: rgb(0, 0, 255);
+    --links: blue;
     --highlight: #FFECB2; // light yellow
     --code-text: #9D174D;
     --share-text: #999;
@@ -77,7 +77,7 @@ html {
 @mixin dark-appearance {
   html, body  {
       --headings: #00FF29; //#ec6ff5; // #fc74f3;
-      --links: #00FF29; // #a882ff; // #ff91fa;
+      --links: #0000ff; // #a882ff; // #ff91fa;
       --highlight: #f34aff; // #6dffff; // #c741c7;
       --bg: #000000; // #1f202a;
       --bg-secondary: #131313; // #323445;
