@@ -1,12 +1,12 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: home
+    url: /
 
   - title: blog
-    url: blog
+    url: /blog
 
   - title: art
-    url: art
+    url: /art
 
 project_entries:
   - title: Schr&ouml;dinger's Camera
@@ -25,13 +25,13 @@ project_entries:
     url: corne-keyboard
     desc: I built a Corne keyboard and despite some... interesting... LED soldering I love it
 
-  - title: Art
-    url: art
-    desc: Learn more about the art I create!
+  - title: Character Refs
+    url: characters
+    desc: Reference sheets for my ttrpg characters and OCs
 
-  - title: Plague Doctor
-    url: plague-doctor-costume
-    desc: My plague doctor Halloween costume!
+  - title: Archive
+    url: archive
+    desc: View posts by category
     # highlight: WIPS
 
 old_project_entries:
@@ -53,14 +53,14 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  # - title: abhinav's homepage
-  #   url: https://www.abhinav.co
+  - title: caard
+    url: https://teawizardry.carrd.co/"{:target=&quot;_blank&quot;}
 
-  # - title: twitter
-  #   url: https://twitter.com/abhinav
+  # - title: ko-fi
+  #   url: https://ko-fi.com/teawizardry{:target=&quot;_blank&quot;}
 
-  # - title: LinkedIn
-  #   url: https://www.linkedin.com/in/hmk/
+  - title: linkedin
+    url: https://www.linkedin.com/in/hmk/{:target=&quot;_blank&quot;}
 
   - title: feed
     url: feed.xml

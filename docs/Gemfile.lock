@@ -76,12 +76,14 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw-ucrt
 
 DEPENDENCIES
+  jekyll
   jekyll-archives
   moonwalk!
   wdm (~> 0.1.1)
   webrick (~> 1.8)
 
 BUNDLED WITH
-   2.2.21
+   2.4.22

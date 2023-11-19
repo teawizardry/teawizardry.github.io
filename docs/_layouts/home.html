@@ -10,7 +10,7 @@ layout: default
 
   <h1>{{ site.title }}</h1>
   {% if site.theme_config.show_description == true %}
-    <p>{{ site.description }}</p>
+    <p>{% include_relative about.html %}</p>
   {% endif %}
 </header>
 

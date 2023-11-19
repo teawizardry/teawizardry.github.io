@@ -1,16 +1,19 @@
-<!-- _layouts/archive.html -->
 ---
 layout: default
 ---
 
+{% if site.theme_config.show_navbar == true %}
+  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+  <div class="dashed"></div>
+{% endif %}
+
 {{ content }}
 
 <section>
-  <h3>{{ page.category }}</h3>
   <ul>
-    {% for page in site.pages %}
-      {% if page.categories contains {{ page.category }} %}
-        <li><a href={{site.url}}{{page.url}}>{{page.description}}</a></li>
+    {% for post in site.posts %}
+      {% if post.categories contains page.category %}
+        <li><a href={{site.url}}{{post.url}}>{{post.title}}</a></li>
       {% endif %}
     {% endfor %}
   </ul>

@@ -1,14 +1,16 @@
 ---
 layout: default
+title: Characters
 ---
-
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-
 {% if site.theme_config.show_navbar == true %}
   {% include horizontal_list.html collection=site.data.home.navbar_entries %}
   <div class="dashed"></div>
 {% endif %}
 <h1 class="post-title">{{ page.title }}</h1>
-{% include date_and_social_share.html %}
-{{ content }}
+<br>
+<p>Here's a list of my character refs:</p>
+<ul>
+  {% for character in site.characters %}
+      <li><a href={{site.url}}{{character.url}}>{{character.title}}</a></li>
+  {% endfor %}
+</ul>

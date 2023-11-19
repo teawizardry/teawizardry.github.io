@@ -1,0 +1,18 @@
+---
+layout: post
+title: archive
+---
+
+<br>
+{% for category in site.categories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <p></p>
+    <details>
+      <summary>{{ category_name }}</summary>
+      {% for post in site.posts %}
+        {% if post.categories contains category_name %}
+          <li><a href={{site.url}}{{post.url}}>{{post.title}}</a></li>
+        {% endif %}
+      {% endfor %}
+    </details>
+{% endfor %}

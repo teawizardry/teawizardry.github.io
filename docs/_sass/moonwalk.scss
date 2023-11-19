@@ -38,11 +38,19 @@ li { margin: 0.4em 0; }
 }
 
 table, th, td {
-  width: 100%;
-  border: thin solid black;
+  // width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  border: thin solid rgb(48, 48, 48);
+  border-bottom: thin solid rgb(48, 48, 48);
   border-collapse: collapse;
-  padding: 0.4em;
+  padding-top: 0.4em;
+  padding-bottom: 0.4em;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
 }
+
+td:nth-child(1) {font-weight: bold;}
 
 div.highlighter-rouge pre code, pre code.highlighter-rouge {
   display: block;
@@ -196,4 +204,20 @@ p code, li code {
   a:hover {
     color: var(--links);
   }
+}
+
+details {
+  padding: 0.1em;
+  margin-left: 2em;
+}
+
+summary {
+  font-weight: bold;
+  color: var(--headings);
+  margin-left: -2em;
+}
+
+details[open] {
+  padding: 0.1em;
+  margin-left: 2em;
 }

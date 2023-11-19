@@ -1,9 +1,9 @@
-title: Hannah's Page
-author: Hannah MK
+title: tea wizardry
+author: HK
 
 lsi: false
 safe: true
-source: /teawizardry.github.io/docs
+source: ./
 incremental: false
 highlighter: rouge
 gist:
@@ -25,7 +25,7 @@ theme_config:
   appearance_toggle: true # if appearance can be switched by user
   back_home_text: "home.." # customize text for homepage link in post layout
   date_format: "%d-%m-%Y" # customize how date is formatted
-  show_description: false # show blog description
+  show_description: true # show blog description
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml
   show_copyright: false # show copyright notice in footer
@@ -50,7 +50,7 @@ sass:
   style: :compressed
 
 collections:
-  archive:
+  characters:
     output: true
     permalink: /:collection/:name
 
@@ -69,3 +69,5 @@ plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
   - jekyll-archives
+
+exclude: [node_modules]
