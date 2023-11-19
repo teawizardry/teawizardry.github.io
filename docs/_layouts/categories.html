@@ -1,0 +1,17 @@
+<!-- _layouts/categories.html -->
+---
+layout: default
+---
+
+{{ content }}
+
+<section>
+  <h3>{{ page.category }}</h3>
+  <ul>
+    {% for page in site.pages %}
+      {% if page.categories contains {{ page.category }} %}
+        <li><a href={{site.url}}{{page.url}}>{{page.description}}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</section>
