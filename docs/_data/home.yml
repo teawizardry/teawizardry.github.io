@@ -12,7 +12,6 @@ project_entries:
   - title: Schr&ouml;dinger's Camera
     url: schrodingers-camera
     desc: Check out my research on how quantum computing can impact privacy preserving vision!
-    highlight: NEW
     
   - title: Note Ninja
     url: note-ninja
