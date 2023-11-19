@@ -38,7 +38,8 @@ li { margin: 0.4em 0; }
 }
 
 table, th, td {
-  width: 60%;
+  min-width: 60%;
+  max-width: fit-content;
   margin-left: auto;
   margin-right: auto;
   border: thin solid rgb(48, 48, 48);
