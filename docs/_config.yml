@@ -49,6 +49,10 @@ highlighter: rouge
 sass:
   style: :compressed
 
+collections:
+  archive:
+    output: true
+
 jekyll-archives:
   enabled: 
     - categories

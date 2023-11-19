@@ -15,9 +15,9 @@ This year for Halloween I wanted to dress up as Hoid from Tress of the Emerald S
 
 From the book:
 > He’s on this ship. And he has a pair of bright red sequined briefs.
+
 > I was wearing a floral buttoned shirt, shorts that were way too short, and sandals.
 With socks.
 
 And the book illustration:
-![reference image from the book](/images/PXL_20211031_234626430.jpg "reference image from the book")
-https://coppermind.net/wiki/File:BattleOfWits.jpg#/media/File:BattleOfWits.jpg
+![reference image from the book](https://coppermind.net/wiki/File:BattleOfWits.jpg#/media/File:BattleOfWits.jpg "reference image from the book")
