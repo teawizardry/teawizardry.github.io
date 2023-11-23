@@ -87,7 +87,17 @@ They have a bit of a Machiavellian flair, being very patient and cunning when it
 </details>
 
 <details open><summary>About Dr. Absinthe</summary>
+Dr. Absinthe is a semi-immortal radioactive skeleton. At least they are now. He has a medical and research background studying biological energy. His main goal now is to undo the magical process that caused him to be immortal. 
 
+<b>Family:</b> only child. Had a difficult time connecting with their mom, but all in all was on good terms. Did NOT get along with his father despite working with him for years.
+
+<b>Friends:</b> not many! He did have one friend that eventually became his lover. She was basically the thing keeping him anywhere remotely sane after being bound. After that, he purposely tries to keep emotional distance between themselves and mortals.
+
+<details><summary>Backstory</summary>
+Jon comes from a wealthy family. He had a decent but distant relationship with his mother, though she died when they were around 18. They never really had a good relationship with his father, who cold, impossible to please, and considered his word as law. After finishing his medical training, they ended up working with his father despite their strained relationship. His father ran a research center that studied novel energy production methods. At this job, Jon started to fall for one of the lab technicians (who I haven’t settled on a name for yet). Meanwhile, their research with their father started to deteriorate as they had to work together more often, and his father began to sink more and more time into strange and mystical research. Eventually, their disagreements came to a head and his father decided to use him for his final tests. His father had discovered a way of creating a truly self renewing energy source by magically binding a living creature to a radioactive material… in this case Jon with Uranium. 
+
+During the process and the aftermath of the shock he killed his father. His love interest helped keep him somewhat sane at first, helping him learn to control his new powers and parse through his father’s secret research. After discovering the true nature of what happened to him, his goal became to find out how to undo the magical process that bound him to this earth and became increasingly willing to accomplish that goal by any means necessary. Along the way he picked up the name Dr. Absinthe from the green glow of his skeleton.
+</details>
 
 <details><summary>Abilities</summary>
     <ul>
