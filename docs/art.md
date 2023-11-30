@@ -3,7 +3,7 @@ layout: post
 title: Art
 ---
 
-Typically, I use a combination of traditional and digital media to create my art pieces. I work primarily in ink and color in CSP or Krita. The occasional alcohol marker, gouache, or watercolor piece also makes its way into my portfolio. Check out my [Instagram](https://www.instagram.com/teawizardry/){:target="\_blank"}, [Tumblr](teawizardry.tumblr.com){:target="\_blank"} or [Ko-Fi](https://ko-fi.com/teawizardry){:target="\_blank"} for more!
+Typically, I use a combination of traditional and digital media to create my art pieces. I work primarily in ink and color in CSP or Krita. The occasional alcohol marker, gouache, or watercolor piece also makes its way into my portfolio. Check out my [Instagram](https://www.instagram.com/teawizardry/){:target="\_blank"}, [Tumblr](teawizardry.tumblr.com){:target="\_blank"} or [Ko-Fi](https://ko-fi.com/teawizardry){:target="\_blank"} for more! Character references can be found [here](https://teawizardry.github.io/characters).
 
 My commission info can be found on my [Ko-Fi](https://ko-fi.com/teawizardry){:target="\_blank"} or [here](https://teawizardry.github.io/CommissionInfo.html){:target="\_blank"}.
 
