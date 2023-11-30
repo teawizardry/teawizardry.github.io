@@ -17,4 +17,4 @@ Full text: [CVPR Workshop Proceedings](https://openaccess.thecvf.com/content/CVP
 
 Code implementation: [Github](https://github.com/teawizardry/schrodingers-camera){:target="\_blank"}
 
-<iframe src="https://share.descript.com/embed/F4Z6N2GhvvJ" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://share.descript.com/embed/F4Z6N2GhvvJ" width="100%" height="360" frameborder="0" allowfullscreen></iframe>
