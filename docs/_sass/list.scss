@@ -1,57 +1,90 @@
-ul.horizontal-list {
+ul.navbar {
   display: flex;
-  //justify-content: space-between;
-  margin-top: 0em;
-  margin-left: -40px;
-  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0;
+  flex-wrap: nowrap;
 
   li {
     display:inline;
-    margin-right: 1em;
+    margin-right: 5em;
+    margin-left: 5em;
+    margin-bottom: -5em;
   }
 
   li a {
     text-decoration: none;
     font-weight: normal
   }
+  
+  img {
+    width: auto;
+    max-height: 50%;
+    height: auto;
+    padding: 0;
+  }
 
 }
 
-.card {
+ul.project-list {
+  display: inline-block;
+  padding: 0;
+  list-style-type: none;
+}
+
+.project {
   padding: 1em;
-  border: 1px var(--text) solid;
-  width: 11em;
+  width: auto;
   height: auto;
-  text-align: center;
+  text-align: left;
   font-size: 1em;
+  margin-bottom: 3em;
+  display: flex;
   align-items: center;
-  background-color: var(--bg-secondary);
-  margin-bottom: 0.8em;
-  border-radius: 0.8em;
 
   .header {
     color: var(--links);
+    font-family: "Press Start 2P";
+    overflow: hidden;
   }
 
   .body {
-    font-size: 0.8em;
+    font-size: 0.9em;
+    overflow: hidden;
   }
 
-  hr {
-    margin: 0.5em 0;
+  img{
+    max-width: 150px;
+    width: auto;
+    height: auto;
+    padding: 0;
+    float: left;
+    margin-right: 50px;
   }
 
 }
 
 /* Responsive cards - one column layout on small screens */
-@media screen and (max-width: 600px) {
-  ul.horizontal-list li.card {
-    width: 100%;
-    display: block;
-    margin-bottom: 1em;
-    margin-left: 1em;
-    a, .header {
-      font-size: 1em;
+@media screen and (max-width: 800px) {
+  li.project {
+    margin: 0 auto;
+    text-align: center;
+
+    img {
+      width: 100%;
+      float: none;
+      margin: 0 auto;
+    }
+  }
+
+  ul.project-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  ul.navbar {
+    li {
+      margin-right: 0.5em;
+      margin-left: 0.5em;
     }
   }
 }

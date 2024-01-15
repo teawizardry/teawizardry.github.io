@@ -1,56 +1,27 @@
 navbar_entries:
   - title: home
     url: /
-
-  - title: blog
-    url: /blog
+    image: ./assets/home.png
 
   - title: art
     url: /art
+    image: ./assets/art.png
 
 project_entries:
   - title: Schr&ouml;dinger's Camera
     url: schrodingers-camera
+    image: ./assets/cat.png
     desc: Check out my research on how quantum computing can impact privacy preserving vision!
     
-  - title: Note Ninja
-    url: note-ninja
-    desc: My senior project! Rock Band, but using a real keyboard and guitar
-    
-  - title: Image Processing on Rock Art
-    url: decorrelation-stretching-and-debunking-the-black-dragon-canyon-pterosaur
-    desc: I discuss a famous pictograph and how researchers debunked claims of it being a pterosaur
-
-  - title: Ergo Keyboard
-    url: corne-keyboard
-    desc: I built a Corne keyboard and despite some... interesting... LED soldering I love it
-
   - title: Art Stuff
     url: art
+    image: ./assets/art.png
     desc: Links to my art socials and ref sheets
 
   - title: Archive
     url: archive
+    image: ./assets/books.png
     desc: View posts by category
-    # highlight: WIPS
-
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
 
 footer_entries:
   - title: caard
@@ -65,36 +36,5 @@ footer_entries:
   - title: feed
     url: feed.xml
 
-misc_entries:
-  - title: this is an example vertical list
-    url: false
-
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
-
-  - title: and you can add data in _data/home.yml
-    url: false
-
-  - title: Blog posts
-    post_list: true
-    url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
 
 

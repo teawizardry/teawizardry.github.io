@@ -1,0 +1,20 @@
+<ul class="project-list">
+  {% for item in include.collection %}
+    <li class="project">
+      <a href="{{ item.url }}">
+        <img src="{{ item.image }}" alt="{{ item.title }}">
+
+        <span class="header">
+          {{ item.title }}
+        </span>
+
+        {% if item.desc != false %}
+        <p class="body">
+          {{ item.desc }}
+        </p>
+        {% endif %}
+      </a>
+    </li>
+
+  {% endfor %}
+</ul>

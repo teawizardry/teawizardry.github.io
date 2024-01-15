@@ -3,7 +3,7 @@ layout: default
 title: Characters
 ---
 {% if site.theme_config.show_navbar == true %}
-  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+  {% include nav_bar.html collection=site.data.home.navbar_entries %}
   <div class="dashed"></div>
 {% endif %}
 <h1 class="post-title">{{ page.title }}</h1>

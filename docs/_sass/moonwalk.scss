@@ -1,21 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P:wght@400;700&display=swap');
 
 html { height: 100%; }
 
 body {
-  font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
-  font-size: 1.0rem;
+  font-family:  "Roboto Mono", roboto, sans-serif;
+  font-size: 1.2rem;
   line-height: 2;
   margin: 0;
   min-height: 100%;
 }
+
 pre, code {
   font-family: "Anonymous Pro", "Courier New", monospace;
   font-size: 0.9rem;
 }
 
-h2, h3, h4, h5 { margin-top: 1.5em; }
+h1, h2, h3, h4, h5 { font-family: "Press Start 2P"; }
+
+h1 { font-size: 2.2rem; }
+
+h2, h3, h4, h5 { 
+  margin-top: 1.5em;
+  font-size: 2.0rem;
+ }
 
 hr { margin: 1em 0; }
 
@@ -130,43 +139,30 @@ img {
   display: block;
   margin: 0 auto;
 }
-html {
-    --bg: #FFF;
-    --bg-secondary: #f8f8f8;
-    --headings: #000;
-    --text: #333;
-    --links: blue;
-    --highlight: #FFECB2; // light yellow
-    --code-text: #9D174D;
-    --share-text: #999;
-}
-// -------------- THEME SWITCHER -------------- //
-@mixin dark-appearance {
-  html, body  {
-      --headings: #00FF29; //#ec6ff5; // #fc74f3;
-      --links: #006eff; // #a882ff; // #ff91fa;
-      --highlight: #f34aff; // #6dffff; // #c741c7;
-      --bg: #000000; // #1f202a;
-      --bg-secondary: #131313; // #323445;
-      --text: #e8ece2;
-      --code-text: #0fa73d; // #f091ff;
-      --share-text: #e8ece2;
-  };
-}
-html[data-theme="dark"] { @include dark-appearance; }
 
-@media (prefers-color-scheme: dark) {
-  body[data-theme="auto"] { @include dark-appearance; }
-}
-// -------------------------------------------- //
+html, body  {
+    --headings: #00FF29;
+    --links: #006eff;
+    --highlight: #f34aff;
+    --bg: rgb(64, 42, 66);
+    --text: #e8ece2;
+    --code-text: #0fa73d;
+    --share-text: #e8ece2;
+};
 
 html, body {
     background-color: var(--bg);
     color: var(--text);
+    background-image: url("../background.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-blend-mode: overlay;
 }
+
 h1, h2, h3, h4, h5, h6 {
     color: var(--headings);
 }
+
 p, strong, b, em, small, li, hr, table, figcaption {
     color: var(--text);
 }
@@ -182,34 +178,6 @@ a {
 }
 *:target { background-color: var(--bg-secondary); }
 
-html.transition,
-html.transition *,
-html.transition *:before,
-html.transition *:after {
-    transition: all 250ms !important;
-    transition-delay: 0 !important;
-}
-
-.theme-toggle {
-  color: var(--text);
-  background-color: transparent;
-  padding: 4px;
-  cursor: pointer;
-  margin: 1em;
-  position: fixed;
-  right: 0;
-  top: 0;
-  border: 2px transparent solid;
-  outline: none;
-}
-
-.theme-toggle:hover {
-  color: var(--links);
-  outline: none;
-}
-.theme-toggle:focus {
-  outline: none;
-}
 .dashed {
   border-top: 1px var(--text) dashed;
   margin: 0.5em 0;
