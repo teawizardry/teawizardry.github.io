@@ -5,48 +5,14 @@ title: Ludcille
 
 [Refsheet](https://refsheet.net/youhoo1234/ludcy){:target="\_blank"}
 
-<div style="width: 100%; padding: 0.1em;">
-<table>
-    <tr>
-        <td>Species</td>
-        <td>Clockwork Automaton (LUD37VX)</td>
-    </tr>
-    <tr>
-        <td>Gender</td>
-        <td>Robot (SHE / HER)</td>
-    </tr>
-    <tr>
-        <td>Height / Weight</td>
-        <td>5'6" (1.7m) / 220lbs (100kg)</td>
-    </tr>
-    <tr>
-        <td>Body Type</td>
-        <td>Metal</td>
-    </tr>
-    <tr>
-        <td>Age</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>Birthday</td>
-        <td>13 July</td>
-    </tr>
-    <tr>
-        <td>Class</td>
-        <td>Creation Bard | Circle of Stars Druid</td>
-    </tr>
-    <tr>
-        <td>Sexuality</td>
-        <td>Aro / Ace</td>
-    </tr>
-</table>
+<div class="gallery">
+
 <figure>
-<img style="float: right; width: 35%; padding: 0.1em; margin-bottom: 2em; min-width:4cm;" src="../images/aro ludcy.png" alt="A picture of Ludcy" title="Ludcy by Parziivale">
+<img src="../images/aro ludcy.png" alt="A picture of Ludcy" title="Ludcy by Parziivale">
 <figcaption style="margin-bottom: 8.5em">Ludcille by <a  href="https://linktr.ee/parziivale" target="\_blank">Parziivale</a></figcaption>
 </figure>
-</div>
 
-<details><summary>Gallery</summary>
+<details open><summary>Gallery</summary>
  <!-- The grid: four columns -->
 <div class="row">
   <div class="column">
@@ -89,6 +55,44 @@ title: Ludcille
 </div> 
 <br>
 </details>
+</div>
+
+<table class="character-table">
+    <tr>
+        <td>Species</td>
+        <td>Clockwork Automaton (LUD37VX)</td>
+    </tr>
+    <tr>
+        <td>Gender</td>
+        <td>Robot (SHE / HER)</td>
+    </tr>
+    <tr>
+        <td>Height / Weight</td>
+        <td>5'6" (1.7m) / 220lbs (100kg)</td>
+    </tr>
+    <tr>
+        <td>Body Type</td>
+        <td>Metal</td>
+    </tr>
+    <tr>
+        <td>Age</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Birthday</td>
+        <td>13 July</td>
+    </tr>
+    <tr>
+        <td>Class</td>
+        <td>Creation Bard | Circle of Stars Druid</td>
+    </tr>
+    <tr>
+        <td>Sexuality</td>
+        <td>Aro / Ace</td>
+    </tr>
+</table>
+
+<div class="character-bottom">
 
 <details><summary>Setting</summary>
 I play Ludcille a slightly homebrewed Forgotten Realms setting (basically, little bit of steampunk has been added since it's "in the future" of the current 5e timeline, plenty of VR's guide / dread plane shenanigans, and ignoring any problematic WoTC weirdness).
@@ -153,3 +157,4 @@ Ludcille used to reside in an upscale tavern called the Lavender Longue. Over ti
 </table>
 
 </details>
+</div>

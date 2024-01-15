@@ -5,8 +5,43 @@ title: Dr. Absinthe / Jonathan (Jon) von Engelhardt
 
 [Refsheet](https://refsheet.net/youhoo1234/absinthe){:target="\_blank"}
 
-<div style="width: 100%; padding: 0.1em;">
-<table>
+<div class="gallery">
+
+<figure>
+<img src="../images/IMG_8841.gif" alt="Dr. Absinthe mad scientist mode" title="Dr. Absinthe mad scientist mode">
+<figcaption>Dr. Absinthe by <a  href="https://luqlustra.tumblr.com/" target="\_blank">Luqlustra</a></figcaption>
+</figure>
+
+<details open><summary>Gallery</summary>
+ <!-- The grid: four columns -->
+<div class="row">
+  <div class="column">
+    <img src="../images/absinthe.gif" alt="Skeleton mode" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="https://64.media.tumblr.com/a410e769c25df04b2060f1f0f432b122/d604a19e1d1c99b9-38/s1280x1920/c69af05845756b846d745dd7380890811c13c7e0.jpg" alt="Oh boy that skeleton sure is green" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="../images/aReallyGreatAxe.jpg" alt="Dr. Absinthe by aReallyGreatAxe" onclick="myFunction(this);">
+  </div>
+</div>
+
+<!-- The expanding image container -->
+<div class="container">
+  <!-- Close the image -->
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+
+  <!-- Expanded image -->
+  <img id="expandedImg" style="width:100%">
+
+  <!-- Image text -->
+  <div id="imgtext"></div>
+</div> 
+<br>
+</details>
+</div>
+
+<table class="character-table">
     <tr>
         <td>Species</td>
         <td>Human (Bound - Uranium)</td>
@@ -36,39 +71,8 @@ title: Dr. Absinthe / Jonathan (Jon) von Engelhardt
         <td>Bisexual</td>
     </tr>
 </table>
-<figure>
-<img style="float: right; width: 35%; padding: 0.1em; margin-bottom: 2em; min-width:4cm;" src="../images/IMG_8841.gif" alt="Dr. Absinthe mad scientist mode" title="Dr. Absinthe mad scientist mode">
-<figcaption style="margin-bottom: 8.5em">Dr. Absinthe by <a  href="https://luqlustra.tumblr.com/" target="\_blank">Luqlustra</a></figcaption>
-</figure>
-</div>
 
-<details><summary>Gallery</summary>
- <!-- The grid: four columns -->
-<div class="row">
-  <div class="column">
-    <img src="../images/absinthe.gif" alt="Skeleton mode" onclick="myFunction(this);">
-  </div>
-  <div class="column">
-    <img src="https://64.media.tumblr.com/a410e769c25df04b2060f1f0f432b122/d604a19e1d1c99b9-38/s1280x1920/c69af05845756b846d745dd7380890811c13c7e0.jpg" alt="Oh boy that skeleton sure is green" onclick="myFunction(this);">
-  </div>
-  <div class="column">
-    <img src="../images/aReallyGreatAxe.jpg" alt="Dr. Absinthe by aReallyGreatAxe" onclick="myFunction(this);">
-  </div>
-</div>
-
-<!-- The expanding image container -->
-<div class="container">
-  <!-- Close the image -->
-  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-
-  <!-- Expanded image -->
-  <img id="expandedImg" style="width:100%">
-
-  <!-- Image text -->
-  <div id="imgtext"></div>
-</div> 
-<br>
-</details>
+<div class="character-bottom">
 
 <details><summary>Setting</summary>
 I have played Dr. Absinthe in a cyberpunk red game and once in a normal DnD setting. However, their character originates from an original setting I've been making (and hope to do some writing with and run some Monster of the Week games in when I have time). It takes place in an alternate future, where society has collapsed and started to rebuild, and people can be bound to different elements. It's a little bit magical detective stories, a little bit cyberpunk, a little bit solarpunk, and a little bit whacky fun. Anyways, the main elements no matter what the setting is for Dr. Absinthe are that he's unhinged, a doctor of some sort, and has daddy issues. 
@@ -131,3 +135,4 @@ During the process and the aftermath of the shock he killed his father. His love
 </table>
 
 </details>
+</div>

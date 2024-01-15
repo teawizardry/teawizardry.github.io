@@ -5,48 +5,14 @@ title: Damien Simmyns
 
 [Refsheet](https://refsheet.net/youhoo1234/damien){:target="\_blank"}
 
-<div style="width: 100%; padding: 0.1em;">
-<table>
-    <tr>
-        <td>Species</td>
-        <td>Elf (Drow)</td>
-    </tr>
-    <tr>
-        <td>Gender</td>
-        <td>Man (He / Him)</td>
-    </tr>
-    <tr>
-        <td>Height / Weight</td>
-        <td>5&#39;3&quot; (1.6m) / 130lbs (69kg)</td>
-    </tr>
-    <tr>
-        <td>Body Type</td>
-        <td>Lean</td>
-    </tr>
-    <tr>
-        <td>Age</td>
-        <td>127</td>
-    </tr>
-    <tr>
-        <td>Birthday</td>
-        <td>3 July</td>
-    </tr>
-    <tr>
-        <td>Class</td>
-        <td>Arcana Cleric / Rogue</td>
-    </tr>
-    <tr>
-        <td>Sexuality</td>
-        <td>Demi / Bisexual (disaster variety)</td>
-    </tr>
-</table>
+<div class="gallery">
+
 <figure>
-<img style="float: right; width: 30%; padding: 0.1em; margin-bottom: 2em; min-width:4cm;" src="../images/Damien_for_Hannah_MK.png" alt="A picture of Damien holding a coffee and a book" title="Damien by Plague Cleric">
+<img src="../images/Damien_for_Hannah_MK.png" alt="A picture of Damien holding a coffee and a book" title="Damien by Plague Cleric">
 <figcaption>Damien by <a  href="https://twitter.com/plaguecleric" target="\_blank">Plague Cleric</a></figcaption>
 </figure>
-</div>
 
-<details><summary>Gallery</summary>
+<details open><summary>Gallery</summary>
  <!-- The grid: four columns -->
 <div class="row">
   <div class="column">
@@ -89,6 +55,44 @@ title: Damien Simmyns
 </div> 
 <br>
 </details>
+</div>
+
+<table class="character-table">
+    <tr>
+        <td>Species</td>
+        <td>Elf (Drow)</td>
+    </tr>
+    <tr>
+        <td>Gender</td>
+        <td>Man (He / Him)</td>
+    </tr>
+    <tr>
+        <td>Height / Weight</td>
+        <td>5&#39;3&quot; (1.6m) / 130lbs (69kg)</td>
+    </tr>
+    <tr>
+        <td>Body Type</td>
+        <td>Lean</td>
+    </tr>
+    <tr>
+        <td>Age</td>
+        <td>127</td>
+    </tr>
+    <tr>
+        <td>Birthday</td>
+        <td>3 July</td>
+    </tr>
+    <tr>
+        <td>Class</td>
+        <td>Arcana Cleric / Rogue</td>
+    </tr>
+    <tr>
+        <td>Sexuality</td>
+        <td>Demi / Bisexual (disaster variety)</td>
+    </tr>
+</table>
+
+<div class="character-bottom">
 
 <details><summary>Setting</summary>
 I play Damien a slightly homebrewed Forgotten Realms setting (basically, little bit of steampunk has been added since it's "in the future" of the current 5e timeline, plenty of VR's guide / dread plane shenanigans, and ignoring any problematic WoTC weirdness).
@@ -152,3 +156,4 @@ Damien grew up outside of Silverymoon and attended the university there. In his 
 </table>
 
 </details>
+</div>

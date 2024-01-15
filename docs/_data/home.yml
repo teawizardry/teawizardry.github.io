@@ -1,11 +1,11 @@
 navbar_entries:
   - title: home
     url: /
-    image: ./assets/home.png
+    image: /assets/home.png
 
   - title: art
     url: /art
-    image: ./assets/art.png
+    image: /assets/art.png
 
 project_entries:
   - title: Schr&ouml;dinger's Camera
@@ -15,12 +15,12 @@ project_entries:
     
   - title: Art Stuff
     url: art
-    image: ./assets/art.png
+    image: /assets/art.png
     desc: Links to my art socials and ref sheets
 
   - title: Archive
     url: archive
-    image: ./assets/books.png
+    image: /assets/books.png
     desc: View posts by category
 
 footer_entries:

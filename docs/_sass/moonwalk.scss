@@ -248,3 +248,55 @@ details[open] {
   padding: 0.1em;
   margin-left: 2em;
 }
+
+.character-table {
+  width: 100%;
+  display: table;
+  table-layout: fixed;
+
+}
+
+.gallery {
+
+  figure {
+    float: right; 
+    width: 50%; 
+    padding: 0.1em; 
+    margin-bottom: 2em; 
+    min-width:4cm;
+  }
+
+  figcaption {
+    overflow: hidden;
+  }
+
+  details {
+    float: none;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .gallery{
+
+    figure {
+      float: none; 
+      width: 90%; 
+      margin: 0 auto; 
+    }
+  
+    figcaption {
+      overflow: hidden;
+      margin-bottom: 1em;
+    }
+  
+    details {
+      float: none;
+      width: 100%;
+    }
+
+  }
+}
+
+.character-bottom {
+  width: 100;
+}
